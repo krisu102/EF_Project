@@ -1,0 +1,10 @@
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POLuokat\bin\Debug\POLuokat.dll
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POLuokat\bin\Debug\POLuokat.pdb
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POLuokat\obj\Debug\POLuokat.csprojResolveAssemblyReference.cache
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POLuokat\obj\Debug\POLuokat.dll
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POLuokat\obj\Debug\POLuokat.pdb
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POLuokat\bin\Debug\POLuokat.dll
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POLuokat\bin\Debug\POLuokat.pdb
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POLuokat\obj\Debug\POLuokat.csprojResolveAssemblyReference.cache
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POLuokat\obj\Debug\POLuokat.dll
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POLuokat\obj\Debug\POLuokat.pdb

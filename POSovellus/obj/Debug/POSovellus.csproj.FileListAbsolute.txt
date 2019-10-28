@@ -1,0 +1,45 @@
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\POSovellus.exe.config
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\POSovellus.exe
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\POSovellus.pdb
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\EntityFramework.dll
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\POData.dll
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\POLuokat.dll
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\POData.pdb
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\POLuokat.pdb
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\EntityFramework.xml
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\obj\Debug\POSovellus.csprojResolveAssemblyReference.cache
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\obj\Debug\POSovellus.exe
+C:\Users\krisu\Desktop\ohjelmointi\POTentti\POSovellus\obj\Debug\POSovellus.pdb
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\POSovellus.exe.config
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\obj\Debug\POSovellus.exe
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\obj\Debug\POSovellus.pdb
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\POSovellus.exe
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\POSovellus.pdb
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\EntityFramework.dll
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\POData.dll
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\POLuokat.dll
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\POData.pdb
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\POLuokat.pdb
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\EntityFramework.xml
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti\POSovellus\obj\Debug\POSovellus.csprojResolveAssemblyReference.cache
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti - Copy\POSovellus\bin\Debug\POSovellus.exe.config
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti - Copy\POSovellus\obj\Debug\POSovellus.exe
+C:\Users\krisu\Desktop\ohjelmointi\syksy2016\POTentti - Copy\POSovellus\obj\Debug\POSovellus.pdb
+C:\EF_Projekti\POSovellus\bin\Debug\POSovellus.exe.config
+C:\EF_Projekti\POSovellus\obj\Debug\POSovellus.exe
+C:\EF_Projekti\POSovellus\obj\Debug\POSovellus.pdb
+C:\EF_Projekti\POSovellus\bin\Debug\POSovellus.exe
+C:\EF_Projekti\POSovellus\bin\Debug\POSovellus.pdb
+C:\EF_Projekti\POSovellus\bin\Debug\EntityFramework.dll
+C:\EF_Projekti\POSovellus\bin\Debug\EntityFramework.SqlServer.dll
+C:\EF_Projekti\POSovellus\bin\Debug\POData.dll
+C:\EF_Projekti\POSovellus\bin\Debug\POLuokat.dll
+C:\EF_Projekti\POSovellus\bin\Debug\POData.pdb
+C:\EF_Projekti\POSovellus\bin\Debug\POLuokat.pdb
+C:\EF_Projekti\POSovellus\bin\Debug\EntityFramework.xml
+C:\EF_Projekti\POSovellus\bin\Debug\EntityFramework.SqlServer.xml
+C:\EF_Projekti\POSovellus\obj\Debug\POSovellus.csprojResolveAssemblyReference.cache
